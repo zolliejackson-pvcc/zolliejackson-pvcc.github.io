@@ -42,7 +42,7 @@ def perform_calculations():
         grand_total += amt_owed
         cust[i][2] = amt_owed
 
-def display_cust_report():
+def display_cust_list():
 
     currency = "8,.2f"
     line = "------------------------"
